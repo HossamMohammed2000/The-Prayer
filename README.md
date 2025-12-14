@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # The Prayer
 
 A serene prayer time application or Islamic prayer visualization built with modern web technologies. Features elegant design and smooth animations for a peaceful user experience. [attached_file:1]
@@ -70,4 +69,3 @@ Ready to deploy anywhere:
 ## License
 
 MIT License - Free for personal, educational, and commercial use.
-
